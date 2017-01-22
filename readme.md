@@ -379,6 +379,7 @@ See [contributing.md](contributing.md)
    * Possibly coming with external hosting :)
  * [PragmataPro][pragmatapro] (not free)
  * [Consolas][consolas] (proprietary)
+ * [SF Mono][sfmono] (proprietary)
 
 
 ## Project History
@@ -434,6 +435,7 @@ Link References
 [consolas]:https://www.microsoft.com/typography/fonts/family.aspx?FID=300
 [input-mono]:http://input.fontbureau.com/download/
 [pragmatapro]:http://www.fsd.it/shop/fonts/pragmatapro/
+[sfmono]:https://developer.apple.com/fonts/
 
 [latest-release]:https://github.com/ryanoasis/nerd-fonts/releases/latest
 
